@@ -8,6 +8,7 @@ OWNER, an API to ease Java property files usage.
 [![security status](https://www.meterian.com/badge/gh/lviggiano/owner/security)](https://www.meterian.com/report/gh/lviggiano/owner)
 [![stability status](https://www.meterian.com/badge/gh/lviggiano/owner/stability)](https://www.meterian.com/report/gh/lviggiano/owner)
 [![Built with Maven](http://maven.apache.org/images/logos/maven-feather.png)](http://maven.apache.org)
+[![](https://jitpack.io/v/patotskiy/owner.svg)](https://jitpack.io/#patotskiy/owner)
 
 DONATIONS
 ---------
